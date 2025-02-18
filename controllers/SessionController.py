@@ -16,9 +16,9 @@ SECRET_KEY = "FRUU9V!?->u7sb%Vo0CL&<JrRttq&E9u#<mr4Qtaw1WS9xCfc?P+m/HrWFc@9&HZ"
 CONNECTION_STRING = (
     "DRIVER={ODBC Driver 17 for SQL Server};"
     "SERVER=104.247.167.130\\mssqlserver2022;"
-    "DATABASE=huseyi98_UykaTechAPI;"
-    "UID=huseyi98_UykaTechAPI;"
-    "PWD=T*a8z54p5"
+    "DATABASE=veritabanı_adı;"
+    "UID=veritabanı_adı;"
+    "PWD=veritabanı_şifresi"
 )
 
 

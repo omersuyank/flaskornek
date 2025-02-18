@@ -12,3 +12,5 @@
 *requirements dosyamız ise bir kolaylık dosyası, pip install -r requirements.txt komutunu Pycharm terminalinde çalıştırarak projenin çalışması için gerekli tüm bağımlılıkları projeye yükleyebilirsin.
 
 *Controller dosyaları içindeki metodları incelerken kullanılan parametreleri models klasöründeki tablo özellikleriyle kıyaslamak. Onun haricinde ise metodlarımızın get ve post özelliklerine dikkat etmek önemli.
+
+*

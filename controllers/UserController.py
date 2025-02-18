@@ -11,9 +11,9 @@ user_controller = Blueprint('user_controller',__name__)
 CONNECTION_STRING = (
     "DRIVER={ODBC Driver 17 for SQL Server};"
     "SERVER=104.247.167.130\\mssqlserver2022;"
-    "DATABASE=huseyi98_UykaTechAPI;"
-    "UID=huseyi98_UykaTechAPI;"
-    "PWD=T*a8z54p5"
+    "DATABASE=veritabanı_adı;"
+    "UID=veritabanı_adı;"
+    "PWD=veritabanı_şifresi"
 )
 
 UPLOAD_FOLDER = "uploads/profile_images"
